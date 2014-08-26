@@ -1,0 +1,11 @@
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\bin\Debug\Project1PL.exe.config
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\bin\Debug\Project1PL.exe
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\bin\Debug\Project1PL.pdb
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\bin\Debug\lua51.dll
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\bin\Debug\LuaInterface.dll
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\obj\Debug\Project1PL.csprojResolveAssemblyReference.cache
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\obj\Debug\Project1PL.Properties.Resources.resources
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\obj\Debug\Project1PL.csproj.GenerateResource.Cache
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\obj\Debug\Project1PL.exe
+c:\users\edilson\documents\visual studio 2013\Projects\Project1PL\Project1PL\obj\Debug\Project1PL.pdb
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\obj\Debug\Project1PL.MainWindow.resources

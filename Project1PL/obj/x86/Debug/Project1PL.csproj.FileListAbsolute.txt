@@ -1,0 +1,12 @@
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\bin\x86\Debug\Project1PL.exe.config
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\obj\x86\Debug\Project1PL.MainWindow.resources
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\obj\x86\Debug\Project1PL.Properties.Resources.resources
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\obj\x86\Debug\Project1PL.csproj.GenerateResource.Cache
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\bin\x86\Debug\Project1PL.exe
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\bin\x86\Debug\Project1PL.pdb
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\bin\x86\Debug\lua51.dll
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\bin\x86\Debug\lua513net.dll
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\bin\x86\Debug\LuaInterface.dll
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\obj\x86\Debug\Project1PL.exe
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\obj\x86\Debug\Project1PL.pdb
+C:\Users\Edilson\Documents\Visual Studio 2013\Projects\Project1PL\Project1PL\obj\x86\Debug\Project1PL.csprojResolveAssemblyReference.cache
